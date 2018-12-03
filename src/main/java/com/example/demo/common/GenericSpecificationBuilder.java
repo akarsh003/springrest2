@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.common;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Deque;

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.example.demo.model.Employee;
 
 @Service
-public class DefPagingService implements EmployeeService{
+public class DefPagingServiceEmployee implements EmployeeService{
 
 	
 	@Autowired

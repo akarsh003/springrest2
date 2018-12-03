@@ -7,7 +7,7 @@ import javax.persistence.criteria.Root;
 
 import org.springframework.data.jpa.domain.Specification;
 
-import com.example.demo.SpecSearchCriteria;
+import com.example.demo.common.SpecSearchCriteria;
 import com.example.demo.model.Employee;
 
 public class EmployeeSpecification implements Specification<Employee> {

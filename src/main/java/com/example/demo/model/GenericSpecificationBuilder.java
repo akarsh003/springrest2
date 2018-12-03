@@ -10,8 +10,8 @@ import java.util.stream.Collectors;
 
 import org.springframework.data.jpa.domain.Specification;
 
-import com.example.demo.SearchOperation;
-import com.example.demo.SpecSearchCriteria;
+import com.example.demo.common.SearchOperation;
+import com.example.demo.common.SpecSearchCriteria;
 
 public class GenericSpecificationBuilder<U> {
 

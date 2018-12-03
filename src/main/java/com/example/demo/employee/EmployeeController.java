@@ -33,10 +33,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.demo.CrieteriaParser;
+import com.example.demo.common.*;
 import com.example.demo.department.DepartmentResourceAssembler;
 import com.example.demo.model.Employee;
-import com.example.demo.model.GenericSpecificationBuilder;
 
 
 //@EnableSpringDataWebSupport
